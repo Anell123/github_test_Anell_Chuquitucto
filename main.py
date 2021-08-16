@@ -7,4 +7,4 @@ Curso = "Github"
 Empresa= "Tistmart"
 Carrera="Ing.de sistemas"
 
-print(f"Hola me llamo {Nombre} {Apellido} mi Dni es {Dni} tengo {Edad} años , estoy haciendo el curso {Curso} que me ofrecio la empresa {Empresa} de la carrera de {Carrera}")
+print(f"Hola me llamo {Nombre} {Apellido} mi Dni es {Dni} tengo {Edad} años y me encuentro estudiando la carrera de {Carrera}, actualmente estoy haciendo el curso {Curso} que me ofrecio la empresa {Empresa}")
