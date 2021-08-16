@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 Nombre = "Anell"
 Apellido ="Chuquitucto"
 Dni = 75744004
